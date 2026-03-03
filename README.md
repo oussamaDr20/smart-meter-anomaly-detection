@@ -1,0 +1,2 @@
+#  detection of anomalies in smart meter energy consumption data
+This project focuses on the automated detection of anomalies in smart meter energy consumption data using modern Machine Learning techniques. The objective is to identify unusual consumption patterns that may indicate technical faults, energy theft, abnormal user behavior, or system irregularities.  Detecting anomalies in time-series data plays a crucial role in improving energy efficiency, grid stability, and predictive maintenance systems.
